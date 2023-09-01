@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+  <head>
+    <meta charset="UFT-8">
+      <html = style="background-color: #87CEFA33;"> 
+        <title>PapelTodoDia</title>
+  </head>
+
+  <body>
+
+    <h1 style="text-align: center;color: #00008B;">PAPEL TODO DIA</h1>
+    <h2 style="text-align: center;background-color: #0000CD50;color: white;">A MELHOR PAPELARIA DO MUNDO!</h2><br>
+
+      <center>
+        <img style="width:225px;height:225px" 
+        src="imagens/imagem1.jfif"
+        alt="paper1">
+      </center>
+
+    <h3 style="text-align: center;color:#FF1493;"><b>PROCURANDO QUALIDADE? CONFIRA NOSSOS PRODUTOS!</b></h3>
+    
+    <p style="text-align: center;">
+      <a href="https://goo.gl/maps/A9s6CDNvMpnxohbt9" target="_blank"><b style="color: red;">NOSSA LOCALIZAÇÃO</b></a>
+    </p>
+
+    <h4 style="text-align: center;">Bem-vindo à Papelaria Papel Todo Dia!</h4>   
+        <p style="text-align: center;">
+       <b>É um enorme prazer abrir as portas virtuais do Papel Todo Dia. <br>
+        Sua nova fonte de inspiração e suprimentos para todas as suas necessidades de papelaria.<br>
+        <br>Somos mais do que apenas uma loja!<br>
+        Somos um espaço onde a criatividade ganha vida, onde as ideias fluem e onde cada traço, palavra e desenho encontram seu lar.</b>
+       </p>
+
+      <ul><b>ALGUNS DOS NOSSOS PRODUTOS:</b>
+      <li>CADERNOS</li>
+      <li>CANETAS</li>
+      <li>LAPIS</li>
+      <li>BORRACHA</li>
+      </ul>
+    
+    <h4 style="text-align: center;color:#FF00FF;"><b>E MUITO MAIS...</b></h4>
+
+  <center>
+    <figure>
+      <img src= "imagens/imagem2.jfif"
+      alt="kit1">
+      <figcaption><i><b>Kit Escolar - 100,00 R$</b></i></figcaption>
+    </figure>
+        
+    <figure>
+      <img src="imagens/imagem3.jfif"
+       alt="caderno lilas">
+      <figcaption><i><b>Caderno Lilás - 20,00 R$</b></i></figcaption>
+    </figure>
+
+    <figure>
+      <img src= "imagens/imagem4.jfif"
+       alt="kit - cadernos">
+      <figcaption><i><b>Kit Cadernos - 65,00 R$</b></i></figcaption>
+    </figure>
+    
+
+  </center>
+
+  </body>
+</html>
